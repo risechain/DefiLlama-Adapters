@@ -26,11 +26,11 @@
     "@project-serum/anchor": "^0.26.0",
     "@solana/web3.js": "^1.87.6",
     "@supercharge/promise-pool": "^2.1.0",
-    "axios": "^1.6.5",
+    "axios": "^1.20.0",
     "base-x": "^5.0.1",
     "bignumber.js": "^9.0.1",
     "blakejs": "^1.2.1",
-    "bn.js": "^5.2.1",
+    "bn.js": "^5.2.5",
     "borsh": "^0.7.0",
     "bs58": "^6.0.0",
     "buffer-layout": "^1.2.2",
@@ -45,7 +45,7 @@
     "miscreant": "^0.3.2",
     "p-limit": "^3.1.0",
     "starknet": "^5.24.3",
-    "ws": "^8.18.3"
+    "ws": "^8.21.0"
   },
   "overrides": {  },
   "description": "",
